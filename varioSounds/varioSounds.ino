@@ -2,7 +2,9 @@
 
  circuit:
  * 8-ohm speaker on digital pin 8
-
+ 
+ 
+ TODO! http://qgroundcontrol.org/dev/mavlink_arduino_integration_tutorial
  */
  
 #define SPEAKER_PIN 8
